@@ -1,0 +1,6 @@
+name = Test Theme
+description = A theme for testing
+package = Brendan Custom Themes
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = css/style.css
