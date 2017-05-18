@@ -1,18 +1,30 @@
 body {
   background-color: #599478;
   font-family: 'Roboto', sans-serif;
-}
-
-li a {
-  color: white;
+  text-align: center;
 }
 
 .main-logo {
-  max-width: 40%;
+  max-width: 70%;
 }
 
 #navbar {
   background-color: #599478;
   border: none;
   text-align: center;
+}
+
+.field-content {
+  padding: 10px;
+  text-align: center;
+}
+
+.img-responsive {
+  display: block;
+  margin: auto;
+}
+
+.view-upcoming-shows {
+  display: block;
+  margin: auto;
 }
