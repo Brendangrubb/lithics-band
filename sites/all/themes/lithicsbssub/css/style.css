@@ -1,0 +1,18 @@
+body {
+  background-color: #599478;
+  font-family: 'Roboto', sans-serif;
+}
+
+li a {
+  color: white;
+}
+
+.main-logo {
+  max-width: 40%;
+}
+
+#navbar {
+  background-color: #599478;
+  border: none;
+  text-align: center;
+}
